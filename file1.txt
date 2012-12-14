@@ -1,6 +1,10 @@
 file 1 content start
 
+i am a master. you shoudl all add my changes.
 
 bracnch-2 content START.
 
 bracnch-2 content START.
+
+
+
