@@ -1,20 +1,16 @@
 file 1 content start
-
 i am a master. you shoudl all add my changes.
-
 bracnch-2 content START.
-
 bracnch-2 content END.
-
 dfvhbdfv
 dfvhdfvbjvd
 djvbdfvbhjfvfd
-
 br1
-
 some thing to say.
-
 from b1.from b1.from b1.from b1.from b1.from b1.from b1.from b1.from b1.
+
+
+master file is again updated.....
 
 
 
